@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1526889449 source:c:\users\user\desktop\2_sem\caserealization.cpp
+	"header.h"
+
+1527258249 c:\users\user\desktop\2_sem\header.h
+	<iostream>
+	<Windows.h>
+	<vector>
+	<fstream>
+	<string>
+
+1526889453 source:c:\users\user\desktop\2_sem\main.cpp
+	"header.h"
+
+1526889450 source:c:\users\user\desktop\2_sem\mainrealization.cpp
+	"header.h"
+
+1526889451 source:c:\users\user\desktop\2_sem\realizationheader.cpp
+	"header.h"
+

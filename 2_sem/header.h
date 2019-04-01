@@ -6,7 +6,7 @@
 #include <fstream>
 #include <string>
 using namespace std;
-class  Product // Ñlass of goods 
+class  Product // Class of goods 
 {
  public:
     char name[100]; // Name of goods
